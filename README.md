@@ -1,6 +1,6 @@
 # 🦊 Octra Extension Wallet (Unofficial)
 
-**Octra-Ekstension** is an unofficial browser extension to interact directly with the **Octra Blockchain**. With this extension, you can **create a new wallet, import an existing one, and sign transactions** — all from your browser.
+**Octra-Ekstension** is an unofficial browser extension to interact directly with the **Octra Blockchain**. With this extension, you can **create a new wallet, import an existing one, sign transactions and more**
 
 ---
 
@@ -38,7 +38,7 @@
 
 ## 🎥 Video Tutorial
 
-Coming soon...
+[![Watch the video](https://img.youtube.com/vi/ZjPt8_GyTbY/hqdefault.jpg)](https://www.youtube.com/watch?v=ZjPt8_GyTbY)
 
 ---
 
