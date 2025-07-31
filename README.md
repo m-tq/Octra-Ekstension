@@ -16,7 +16,7 @@
 ## 📦 How to Install
 
 1. **Download the extension ZIP:**  
-   👉 [Octra-Wallet.zip](https://github.com/m-tq/Octra-Ekstension/releases/download/octra-ekstension/Octra-Wallet.zip)
+   👉 [Octra-Wallet.zip](https://github.com/m-tq/Octra-Ekstension/releases/download/bug-fixes/Octra-Wallet.zip)
 
 2. **Extract** the ZIP file to any folder on your computer.
 
