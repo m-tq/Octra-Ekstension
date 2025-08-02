@@ -1,6 +1,6 @@
 # 🦊 Octra Extension Wallet (Unofficial)
 
-**Octra-Ekstension** is an unofficial browser extension to interact directly with the **Octra Blockchain**. With this extension, you can **create a new wallet, import an existing one, sign transactions and more**
+**Octra Extension** is an Un-Official Chrome Browser based Extension to interact directly with the **Octra Blockchain**. With this extension, you can **create a new wallet, import an existing one, sign transactions and more**
 
 ---
 
@@ -8,7 +8,7 @@
 
 - 🔐 Create & manage Octra wallets in-browser  
 - ⚡ Sign transactions instantly  
-- 🔄 Import wallets using private keys  
+- 🔄 Import wallets using private keys  or mnemonic 
 - 🧩 Compatible with Chromium-based browsers
 
 ---
@@ -16,7 +16,7 @@
 ## 📦 How to Install
 
 1. **Download the extension ZIP:**  
-   👉 [Octra-Wallet.zip](https://github.com/m-tq/Octra-Ekstension/releases/download/bug-fixes/Octra-Wallet.zip)
+   👉 [Octra-Wallet.zip](https://github.com/m-tq/Octra-Ekstension/releases/download/v1.0.2/Octra-Wallet.zip)
 
 2. **Extract** the ZIP file to any folder on your computer.
 
@@ -41,6 +41,12 @@
 [![Watch the video](https://img.youtube.com/vi/ZjPt8_GyTbY/hqdefault.jpg)](https://www.youtube.com/watch?v=ZjPt8_GyTbY)
 
 ---
+
+## 🛡 Virustotal
+
+[Virustotal Result](https://www.virustotal.com/gui/file/d254f040ab0f0824ee3d004358b10b1e668c626104041c7e0ad46bbe90a7e8f6?nocache=1)
+![Octra-Extension-Virustotal]([octra-wallet-virustotal.png](https://github.com/m-tq/Octra-Ekstension/blob/088428e1d1c2b832dbf4afcb8bdcc59ce34ee8e0/octra-wallet-virustotal.png))
+
 
 ## ⚠️ Disclaimer
 
