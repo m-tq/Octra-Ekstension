@@ -45,7 +45,8 @@
 ## 🛡 Virustotal
 
 [Virustotal Result](https://www.virustotal.com/gui/file/d254f040ab0f0824ee3d004358b10b1e668c626104041c7e0ad46bbe90a7e8f6?nocache=1)
-![Octra-Extension-Virustotal]([octra-wallet-virustotal.png](https://github.com/m-tq/Octra-Ekstension/blob/088428e1d1c2b832dbf4afcb8bdcc59ce34ee8e0/octra-wallet-virustotal.png))
+
+![Octra-Extension-Virustotal](https://github.com/m-tq/Octra-Ekstension/blob/088428e1d1c2b832dbf4afcb8bdcc59ce34ee8e0/octra-wallet-virustotal.png)
 
 
 ## ⚠️ Disclaimer
