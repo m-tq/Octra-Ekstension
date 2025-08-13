@@ -15,23 +15,14 @@
 
 ## 📦 How to Install
 
-1. **Download the extension ZIP:**  
-   👉 [Octra-Wallet.zip](https://github.com/m-tq/Octra-Ekstension/releases/download/v1.0.2/Octra-Wallet.zip)
+1. **Download and Install from Chrome Store:**  
+   👉 [Octra Wallet Chrome Extension](https://chromewebstore.google.com/detail/octra-wallet/celnpgbeekcppnfbhbkcdaajdbibpdai)
 
-2. **Extract** the ZIP file to any folder on your computer.
+2. Open the extension → **Import** or **Create a Wallet**.
 
-3. Open Chrome and go to:  
-   `chrome://extensions`
+3. Set a password to protect your wallet.
 
-4. Enable **Developer Mode** (top-right toggle).
-
-5. Click **"Load unpacked"** and select the extracted `Octra-Wallet` folder.
-
-6. Open the extension → **Import** or **Create a Wallet**.
-
-7. Set a password to protect your wallet.
-
-8. Done! 🎉  
+4. Done! 🎉  
    You're now ready to explore the Octra ecosystem.
 
 ---
